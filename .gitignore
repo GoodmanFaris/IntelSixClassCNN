@@ -1,0 +1,8 @@
+venv/
+venv/
+venv311/
+__pycache__/
+*.h5
+*.tflite
+Images/
+.ipynb_checkpoints/
